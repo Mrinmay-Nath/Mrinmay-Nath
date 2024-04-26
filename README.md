@@ -32,6 +32,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mrinmay-Nath&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinmay-Nath&theme=tokyonight&show_icons=true)](https://github.com/Elysian01/github-readme-stats)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
