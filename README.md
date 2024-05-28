@@ -32,4 +32,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mrinmay-Nath&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinmay-Nath&theme=tokyonight&show_icons=true)](https://github.com/Elysian01/github-readme-stats)
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YOU+CAN+GET+MORE+INFO;IN+MY+SOCIAL+MEDIA..!;" />
+</h1>
+
 
