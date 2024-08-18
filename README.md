@@ -31,6 +31,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mrinmay-Nath&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinmay-Nath&theme=tokyonight&show_icons=true)](https://github.com/Elysian01/github-readme-stats)
+<a href=""><img alt="Zaheer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrinmay-Nath&bg_color=1F222E&color=ad73e7&line=a25bc8&point=e8e8e8&area=true&hide_border=true" /></a>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
