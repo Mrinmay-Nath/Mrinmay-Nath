@@ -42,5 +42,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YOU+CAN+GET+MORE+INFO;IN+MY+SOCIAL+MEDIA..!;" />
 </h1>
+<div align="center">
+  <h2>Socials</h2>
+  <a href="https://www.linkedin.com/in/mrinmay-nath/"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://twitter.com/soul_of_mercara"><img src="https://cdn-icons-png.flaticon.com/128/3991/3991746.png" alt="Twitter" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://leetcode.com/u/mrinmay-nath/"><img src="https://cdn.icon-icons.com/icons2/3912/PNG/96/leetcode_logo_icon_247860.png" alt="LeetCode" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://www.instagram.com/ig_mrinmay/"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782335.png" alt="Instagram" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://mrinmaynathh.blogspot.com/"><img src="https://cdn-icons-png.flaticon.com/128/1084/1084320.png" alt="Portfolio" width="48" height="48" style="margin-right: 10px;"></a>
+</div>
+
+
 
 
