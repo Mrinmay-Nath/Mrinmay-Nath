@@ -13,9 +13,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://mrinmaynathh.blogspot.com/](https://mrinmaynathh.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://mrinmaynath.me/](https://mrinmaynath.me/)
 
-- 📝 I regularly write articles on [https://mrinmaynathh.blogspot.com/](https://mrinmaynathh.blogspot.com/)
+- 📝 I regularly write articles on [Digital Debugger](https://digitaldebugger.blogspot.com/)
 
 - 📫 How to reach me **mrinmaynath1@gmail.com**
 
